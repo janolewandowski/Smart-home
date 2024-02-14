@@ -1,0 +1,4 @@
+../Core/Smarthome/Classes/DIN/DIN.c:31:14:SetInertion	16	static
+../Core/Smarthome/Classes/DIN/DIN.c:36:14:SetHoldDelay	16	static
+../Core/Smarthome/Classes/DIN/DIN.c:41:14:SetHoldInterval	16	static
+../Core/Smarthome/Classes/DIN/DIN.c:46:11:DIN_Process	32	static

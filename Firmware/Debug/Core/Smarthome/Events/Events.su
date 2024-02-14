@@ -1,0 +1,7 @@
+../Core/Smarthome/Events/Events.c:18:14:OnValueChange	16	static
+../Core/Smarthome/Events/Events.c:23:14:OnSwitchOn	16	static
+../Core/Smarthome/Events/Events.c:28:14:OnSwitchOff	16	static
+../Core/Smarthome/Events/Events.c:34:14:OnShortPress	16	static
+../Core/Smarthome/Events/Events.c:38:14:OnLongPress	16	static
+../Core/Smarthome/Events/Events.c:42:14:OnHold	16	static
+../Core/Smarthome/Events/Events.c:46:14:OnClick	24	static

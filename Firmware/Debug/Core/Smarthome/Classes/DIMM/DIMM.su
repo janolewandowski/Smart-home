@@ -1,0 +1,9 @@
+../Core/Smarthome/Classes/DIMM/DIMM.c:15:14:DIMM_SwitchOn	24	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:25:14:DIMM_SwitchOff	24	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:35:14:DIMM_Switch	32	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:44:14:DIMM_SetValue	24	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:49:14:DIMM_SetRampTime	16	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:54:14:DIMM_SetMaxValue	16	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:59:14:DIMM_SetMinValue	16	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:63:14:DIMM_DimmingEdge	16	static
+../Core/Smarthome/Classes/DIMM/DIMM.c:68:14:DIMM_HoldValue	16	static

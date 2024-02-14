@@ -1,0 +1,5 @@
+../Core/Smarthome/Classes/DOUT/DOUT.c:16:14:DOUT_Init	24	static
+../Core/Smarthome/Classes/DOUT/DOUT.c:23:14:DOUT_SetValue	24	static
+../Core/Smarthome/Classes/DOUT/DOUT.c:31:14:DOUT_Switch	24	static
+../Core/Smarthome/Classes/DOUT/DOUT.c:43:14:DOUT_SwitchOn	16	static
+../Core/Smarthome/Classes/DOUT/DOUT.c:55:14:DOUT_SwitchOff	16	static

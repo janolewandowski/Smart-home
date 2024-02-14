@@ -1,0 +1,7 @@
+../Core/Smarthome/Classes/LED/LED.c:62:14:LED_SetRedValue	24	static
+../Core/Smarthome/Classes/LED/LED.c:70:14:LED_SetGreenValue	24	static
+../Core/Smarthome/Classes/LED/LED.c:78:14:LED_SetBlueValue	24	static
+../Core/Smarthome/Classes/LED/LED.c:86:14:LED_SetWhiteValue	24	static
+../Core/Smarthome/Classes/LED/LED.c:100:14:LED_SwitchOn	24	static
+../Core/Smarthome/Classes/LED/LED.c:112:14:LED_SwitchOff	24	static
+../Core/Smarthome/Classes/LED/LED.c:124:14:LED_Switch	32	static
